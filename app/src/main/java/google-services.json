@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "801768216296",
+    "project_id": "fir-ea2a6",
+    "storage_bucket": "fir-ea2a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801768216296:android:77e6d361259c9bd7eb1b5d",
+        "android_client_info": {
+          "package_name": "com.example.musicapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL2EVsaHCoZHS47r-AucB3Idl0vO6xweQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
