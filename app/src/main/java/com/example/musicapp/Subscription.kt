@@ -33,7 +33,7 @@ fun Subscription(){
                     Text(text = "Musical")
                     Row(Modifier.fillMaxWidth(), horizontalArrangement = Arrangement.SpaceBetween) {
                         Text(text = "Free Tier")
-                        TextButton(onClick = { /*TODO*/ }) {
+                        TextButton(onClick = { }) {
                             Row {
                                 Text(text = "See All Plans")
                                 Icon(
@@ -47,7 +47,7 @@ fun Subscription(){
                 }
                 Divider(thickness = 1.dp, modifier = Modifier.padding(horizontal = 8.dp))
                 Row(Modifier.padding(vertical = 16.dp)) {
-                    TextButton(onClick = { /*TODO*/ }) {
+                    TextButton(onClick = {  }) {
                         Icon(imageVector = Icons.Default.AccountBox, contentDescription = "Get a Plan")
                         Text(text = "Get a Plan")
 
